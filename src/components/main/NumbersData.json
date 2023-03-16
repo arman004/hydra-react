@@ -1,0 +1,26 @@
+[
+    {
+        "num":"01",
+        "img":"./images/line.png",
+        "text":"3D Conception & Design",
+        "id":1
+    },
+    {
+        "num":"02",
+        "img":"./images/line.png",
+        "text":"Interaction Design",
+        "id":2
+    },
+    {
+        "num":"03",
+        "img":"./images/line.png",
+        "text":"VR World User Testing",
+        "id":3
+    },
+    {
+        "num":"04",
+        "img":"./images/line.png",
+        "text":"Hydra VR Deploy",
+        "id":4
+    }
+]

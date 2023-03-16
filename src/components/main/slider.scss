@@ -1,0 +1,28 @@
+.slider-div {
+    .carousel-root {
+        width: 360px;
+        background: radial-gradient(#3A3456, #211E2E);
+        border-radius: 70px;
+
+        .content-carousel {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+
+            h4 {
+                width: 190px;
+                color: white;
+            }
+        }
+    }
+
+    .carousel-slider {
+        height: 109px;
+
+    }
+
+    .thumbs-wrapper {
+        display: none;
+    }
+}

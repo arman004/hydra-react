@@ -1,0 +1,30 @@
+[
+    {
+        "img":"./images/elipse1.png",
+        "title":"SIMULATION",
+        "text":"Vitae sapien pellentesque habitant morbi nunc.Viverra aliquet porttitor rhoncus libero justo laoreet sit amet vitae.",
+        "btn":"TRY IT NOW",
+        "id":1
+    },
+    {
+        "img":"./images/elipse2.png",
+        "title":"EDUCATION",
+        "text":"Vitae sapien pellentesque habitant morbi nunc.Viverra aliquet porttitor rhoncus libero justo laoreet sit amet vitae.",
+        "btn":"TRY IT NOW",
+        "id":2
+    },
+    {
+        "img":"./images/elipse3.png",
+        "title":"SELF-CARE",
+        "text":"Vitae sapien pellentesque habitant morbi nunc.Viverra aliquet porttitor rhoncus libero justo laoreet sit amet vitae.",
+        "btn":"TRY IT NOW",
+        "id":3
+    },
+    {
+        "img":"./images/elipse4.png",
+        "title":"OUTDOOR",
+        "text":"Vitae sapien pellentesque habitant morbi nunc.Viverra aliquet porttitor rhoncus libero justo laoreet sit amet vitae.",
+        "btn":"TRY IT NOW",
+        "id":4
+    }
+]

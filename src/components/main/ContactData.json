@@ -1,0 +1,20 @@
+[
+    {
+        "img":"./images/location.png",
+        "title":"Pay Us a Visit",
+        "text":"Union St, Seattle, WA 98101, United States",
+        "id":1
+    },
+    {
+        "img":"./images/phone-call.png",
+        "title":"Give Us a Call",
+        "text":"(110) 1111-1010",
+        "id":2
+    },
+    {
+        "img":"./images/shape.png",
+        "title":"Send Us a Message",
+        "text":"Contact@HydraVTech.com",
+        "id":3
+    }
+]

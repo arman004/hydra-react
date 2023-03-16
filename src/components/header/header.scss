@@ -1,0 +1,74 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #343045;
+    .logo{
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+    ul{
+        display: flex;
+        gap: 42px;
+        li{
+            list-style-type:none;
+            a{
+                text-decoration: none;
+                color: white;
+            }
+        }
+    }
+    .btn{
+        display: flex;
+        gap: 38px;
+        .contact-btn{
+            width: 154px;
+            height: 48px;
+            border-radius: 40px;
+            background-color:#343045;
+            color: white;
+            border: 1px solid white;
+            &:hover{
+                cursor: pointer;
+            }
+        }
+        .join-btn{
+            width: 154px;
+            height: 48px;
+            border-radius: 40px;
+            background: linear-gradient(#8176AF,#C0B7E8);
+            border: none;
+            color: #343045;
+            &:hover{
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+.burger-menu{
+    display: none;
+}
+@media (max-width: 900px){
+    .nav-bar{
+        display: none;
+    }
+    .burger-menu{
+        display: block;
+        &:hover{
+            cursor: pointer;
+        }
+    }
+    
+}
+@media (max-width:900px) {
+    
+        .contact-btn{
+            display: none;
+        }
+        .join-btn{
+            display: none;
+        }
+    
+}
